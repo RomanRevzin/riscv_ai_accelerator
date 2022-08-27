@@ -1,0 +1,50 @@
+Quartus II Archive log --	C:/Users/peppa/Desktop/hackaton/DE0_top.qarlog
+
+Archive:	C:/Users/peppa/Desktop/hackaton/DE0_top.qar
+Date:		Thu Apr 14 12:04:29 2022
+Quartus II 64-Bit		14.0.0 Build 200 06/17/2014 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.qpf
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.qsf
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/DE0_top_assignment_defaults.qdf
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/PLL.ppf
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/PLL.qip
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/PLL.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/PLL_bb.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/button_debouncer.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/data.qip
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/data.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/data_bb.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/de0cv.qsys
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/prog.qip
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/prog.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/prog_bb.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/ram.qip
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/ram.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/ram_bb.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/Quartus/DE0_Demo/seg7_lut.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/riscv-gnu-toolchain/DE0_top.hex
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/Accel/ai_accel.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/Leds/leds_mgmt.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_control_unit.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_csr_unit/core_csr_unit.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_csr_unit/core_csr_unit_timer.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit_alu.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit_br.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_execution_unit/core_execution_unit_lis.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_program_counter.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/core/core_regfile.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/mem/mem_data.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/mem/mem_prog.v
+C:/hackaton/Quartus 14.0/RV32i-Verilog-master/src/top.v
+C:/hackaton/quartus 14.0/rv32i-verilog-master/data/datamem_h.mem
+C:/hackaton/quartus 14.0/rv32i-verilog-master/data/test.hex
+C:/hackaton/quartus 14.0/rv32i-verilog-master/src/defines.vh
+	======= Total: 39 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
